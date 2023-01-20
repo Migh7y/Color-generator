@@ -1,0 +1,45 @@
+/* General Style */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(226, 238, 181);
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Generator Box Style */
+
+#color-pick {
+    width: 350px;
+    background-color: rgba(24, 24, 43, 0.7);
+    border-radius: 5px;
+    margin: 150px auto 0 auto;
+    padding: 10px;
+    color: white;
+}
+
+.input1 {
+    width: 100%;
+    cursor: pointer;
+}
+
+#btn {
+    text-align: center;
+}
+
+#myBtn {
+    padding: 8px 14px;
+    color: white;
+    background-color: rgb(18, 22, 71);
+    border: none;
+    border-radius: 5px;
+}
+
+#myBtn:hover {
+    background-color: rgb(16, 20, 61);
+    cursor: pointer;
+}
+
+    
